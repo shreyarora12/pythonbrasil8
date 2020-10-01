@@ -6,7 +6,7 @@ This is the source-code of PythonBrasil[8]'s website. The 8th edition of the con
 The official website is under-construction and can be seen at:
 http://www.pythonbrasil.org.br
 
-Since its begining, this website has been developed as open-source by volunteers, using mainly:
+Since its beginning, this website has been developed as an open-source by volunteers, mainly using :
 
 - Python
 - Django
